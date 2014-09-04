@@ -1,0 +1,1 @@
+#JSON package for the censorify file
